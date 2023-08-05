@@ -1,6 +1,7 @@
 # JAVA INTERVIEW QUESTIONS
 
 1. **What is JAVA?**
+
 Java is a high-level, object-oriented programming language developed by Sun Microsystems (acquired by Oracle Corporation) in the mid-1990s. It is designed to be platform-independent, meaning that Java programs can run on any device or operating system that has a Java Virtual Machine (JVM) installed.
 
 2. **Where is JAVA used?**
@@ -10,6 +11,7 @@ Java is a high-level, object-oriented programming language developed by Sun Micr
 - **Desktop Applications:** Java can be used to create desktop applications with graphical user interfaces (GUIs). JavaFX and Swing are two popular frameworks for building desktop applications in Java.
 
 3. **Which memory does java use and what are the differences between them?**
+
 Java uses two types of memory for different purposes: the stack and the heap.
 
    **Stack:**
